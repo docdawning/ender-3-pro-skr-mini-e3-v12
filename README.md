@@ -11,7 +11,10 @@ This is posted for my own use. Others are welcome to look at it, but know that t
 <H2>DOWNLOAD FIRMWARE BINARIES</H2>
 <TABLE>
 <TR><TD>Firmware</TD><TD>Status/Notes</TD></TR>
-<TR><TD><a href="https://github.com/docdawning/ender-3-pro-skr-mini-e3-v12/blob/master/Marlin-2.0.x/Marlin-bugfix-2.0.x-20200227/FIRMWARE/firmware.bin?raw=true">Marlin 2.0.x BugFix from 2020-02-27</a></TD><TD>Usable</TD></TR>
+<TR>
+	<TD><a href="https://github.com/docdawning/ender-3-pro-skr-mini-e3-v12/blob/master/Marlin-2.0.x/Marlin-bugfix-2.0.x-20200227/FIRMWARE/firmware.bin?raw=true">Marlin 2.0.x BugFix from 2020-02-27</a></TD>
+	<TD><a href="https://raw.githubusercontent.com/docdawning/ender-3-pro-skr-mini-e3-v12/master/Marlin-2.0.x/Marlin-bugfix-2.0.x-20200227/notes.txt">Usable</a></TD>
+</TR>
 </TABLE>
 
 <BR />
