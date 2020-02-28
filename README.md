@@ -35,4 +35,5 @@ I just want to get my Ender 3 Pro working well for my use case. I like the 2209 
 <UL>
 	<LI>I use <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO-8601</a> date formats, because I always write numbers with the high-mangitude values towards the left and the more minute values towards the right.</LI>
 	<LI>My particular Ender 3 Pro was shipped from Creality in early February 2020</LI>
+	<LI>I print via Octoprint (via <a href="https://octoprint.org/download/">Octopi</a>) running on a 2GB Raspberry Pi 4, Model B.</LI>
 </UL>
