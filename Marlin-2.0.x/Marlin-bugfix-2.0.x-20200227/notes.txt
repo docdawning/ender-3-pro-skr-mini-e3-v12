@@ -1,0 +1,5 @@
+- Copied Marlin 2.0.x on 2020-02-27
+- Built and tested on Ender 3 Pro for two scaled-down benchie prints, seemed good
+
+KNOWN ISSUES:
+- After printing from SD, printer seems unresponsive to new commands
